@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011068958140",
+    "project_id": "vela-bakery",
+    "storage_bucket": "vela-bakery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011068958140:android:418ca6c300fbbb1077e7b9",
+        "android_client_info": {
+          "package_name": "th.ac.bu.vela_bakery.vela_bakery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGbwkodF8Z574vYmUhTz26xweGaWF560"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
